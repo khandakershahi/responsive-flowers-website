@@ -42,6 +42,14 @@
     font-style: normal;
   }
 
+  .noto-serif-semibold {
+    font-family: "Noto Serif", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+  }
+  
+
   /* header style  */
 
   .link-current{
