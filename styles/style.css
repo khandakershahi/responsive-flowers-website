@@ -1,3 +1,5 @@
+/* Global CSS */
+
 @import "tailwindcss";
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
@@ -38,4 +40,12 @@
     font-optical-sizing: auto;
     font-weight: 700;
     font-style: normal;
+  }
+
+  /* header style  */
+
+  .link-current{
+    color: #252432!important;
+    font-weight: bold;
+
   }
